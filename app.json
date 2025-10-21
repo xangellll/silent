@@ -1,1 +1,9 @@
-{}
+[
+  {
+    "username": "xangel",
+    "password": "angel123",
+    "role": "owner",
+    "expiresAt": 88074573254243,
+    "createdAt": 1761059654243
+  }
+]
